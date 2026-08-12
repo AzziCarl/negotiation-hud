@@ -13,7 +13,7 @@ suggested counter-strategy.
 
 | Input | Output |
 |---|---|
-| ![Checklist input](assets/screenshot-input.png) | ![Analysis result](assets/screenshot-result.png) |
+| ![Checklist input](screenshot-input.png) | ![Analysis result](screenshot-result.png) |
 
 ## How it works
 
